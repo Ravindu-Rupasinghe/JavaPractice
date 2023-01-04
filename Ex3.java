@@ -1,4 +1,5 @@
 //Ex3: Increasing and decreasing start pattern using for loop
+/*
 *
 **
 ***
@@ -6,6 +7,7 @@
 ***
 **
 *
+*/
 //Code3:
 public class Ex3 {
     public static void main(String args[]) {
